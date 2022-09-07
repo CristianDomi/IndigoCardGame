@@ -12,6 +12,4 @@ object Score {
         return total
     }
 
-
-
 }
